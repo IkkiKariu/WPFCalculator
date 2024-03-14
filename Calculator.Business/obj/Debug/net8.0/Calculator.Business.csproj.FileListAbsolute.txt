@@ -1,0 +1,11 @@
+C:\Projects\CS\WPFCalculator\Calculator.Business\bin\Debug\net8.0\Calculator.Business.deps.json
+C:\Projects\CS\WPFCalculator\Calculator.Business\bin\Debug\net8.0\Calculator.Business.dll
+C:\Projects\CS\WPFCalculator\Calculator.Business\bin\Debug\net8.0\Calculator.Business.pdb
+C:\Projects\CS\WPFCalculator\Calculator.Business\obj\Debug\net8.0\Calculator.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CS\WPFCalculator\Calculator.Business\obj\Debug\net8.0\Calculator.Business.AssemblyInfoInputs.cache
+C:\Projects\CS\WPFCalculator\Calculator.Business\obj\Debug\net8.0\Calculator.Business.AssemblyInfo.cs
+C:\Projects\CS\WPFCalculator\Calculator.Business\obj\Debug\net8.0\Calculator.Business.csproj.CoreCompileInputs.cache
+C:\Projects\CS\WPFCalculator\Calculator.Business\obj\Debug\net8.0\Calculator.Business.dll
+C:\Projects\CS\WPFCalculator\Calculator.Business\obj\Debug\net8.0\refint\Calculator.Business.dll
+C:\Projects\CS\WPFCalculator\Calculator.Business\obj\Debug\net8.0\Calculator.Business.pdb
+C:\Projects\CS\WPFCalculator\Calculator.Business\obj\Debug\net8.0\ref\Calculator.Business.dll

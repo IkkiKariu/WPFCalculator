@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WPFCalculator/1.0.0": {
+        "dependencies": {
+          "Calculator.Business": "1.0.0"
+        },
+        "runtime": {
+          "WPFCalculator.dll": {}
+        }
+      },
+      "Calculator.Business/1.0.0": {
+        "runtime": {
+          "Calculator.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPFCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculator.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
