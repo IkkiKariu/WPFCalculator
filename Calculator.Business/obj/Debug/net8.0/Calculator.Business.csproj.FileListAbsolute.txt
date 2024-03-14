@@ -9,3 +9,4 @@ C:\Projects\CS\WPFCalculator\Calculator.Business\obj\Debug\net8.0\Calculator.Bus
 C:\Projects\CS\WPFCalculator\Calculator.Business\obj\Debug\net8.0\refint\Calculator.Business.dll
 C:\Projects\CS\WPFCalculator\Calculator.Business\obj\Debug\net8.0\Calculator.Business.pdb
 C:\Projects\CS\WPFCalculator\Calculator.Business\obj\Debug\net8.0\ref\Calculator.Business.dll
+C:\Projects\CS\WPFCalculator\Calculator.Business\obj\Debug\net8.0\Calculator.Business.sourcelink.json

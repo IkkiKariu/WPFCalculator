@@ -23,3 +23,4 @@ C:\Projects\CS\WPFCalculator\WPFCalculator\bin\Debug\net8.0-windows\Calculator.B
 C:\Projects\CS\WPFCalculator\WPFCalculator\bin\Debug\net8.0-windows\Calculator.Business.pdb
 C:\Projects\CS\WPFCalculator\WPFCalculator\obj\Debug\net8.0-windows\WPFCalculator.csproj.AssemblyReference.cache
 C:\Projects\CS\WPFCalculator\WPFCalculator\obj\Debug\net8.0-windows\WPFCalculator.csproj.CopyComplete
+C:\Projects\CS\WPFCalculator\WPFCalculator\obj\Debug\net8.0-windows\WPFCalculator.sourcelink.json

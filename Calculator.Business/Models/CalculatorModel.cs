@@ -14,8 +14,8 @@ namespace Calculator.Business.Models
         {
             { "+",  0 },
             { "-", 0 },
-            { "*", 0 },
-            { "/", 0 },
+            { "*", 1 },
+            { "/", 1 },
         };
 
         private enum Operator
